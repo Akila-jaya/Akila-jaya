@@ -5,7 +5,8 @@
 
 
 ## 🙋‍♂️ About Me
--🔭 I’m study at Informatics Institute of Technology (IIT) & IJSE - Institute of Software Engineering.
+
+🔭 I’m study at **Informatics Institute of Technology (IIT)** & **IJSE - Institute of Software Engineering**.
 
 - 🌱 I’m currently learning **Computer Science**
 
